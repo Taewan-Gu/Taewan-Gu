@@ -1,4 +1,4 @@
-### hello
+### Hello 😉
 
 Taewan Gu / 부경대 컴공 / SSAFY 4기
 
