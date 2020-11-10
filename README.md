@@ -1,4 +1,4 @@
-### Hello 😉
+### Hello 😁
 
 Taewan Gu / 컴공 / SSAFY 4기
 
