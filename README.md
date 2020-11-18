@@ -2,7 +2,7 @@
 
 Taewan Gu / 컴공 / SSAFY 4기
 
-Python3 / JAVA / JS
+Python3 / C / JAVA / JS
 
 https://txegg.tistory.com
 
