@@ -6,7 +6,7 @@ Python3 / C / JAVA / JS
 
 [](https://img.shields.io/keybase/btc/fksk94)
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+https://img.shields.io/static/v1?label=hi&message=hi&color=orange
 
 https://txegg.tistory.com
 
