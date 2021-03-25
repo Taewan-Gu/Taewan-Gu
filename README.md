@@ -1,7 +1,7 @@
 ## About Me
 
 
-![image](https://user-images.githubusercontent.com/68409255/112406974-8e5c8a80-8d58-11eb-9adc-bee345293d2c.png)
+![image](https://user-images.githubusercontent.com/68409255/112407406-61f53e00-8d59-11eb-93d9-ed24a5f3d547.png)
 
 
 ![github](https://img.shields.io/static/v1?label=language&message=python&color=blue)
