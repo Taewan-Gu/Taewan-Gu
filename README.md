@@ -1,8 +1,11 @@
-### About Me
-* 구태완(Taewan Gu)
-* 부경대학교 컴퓨터공학과
-* SSAFY 4기
-* Blog: https://txegg.tistory.com
+## About Me
+
+
+![image](https://user-images.githubusercontent.com/68409255/112406220-19d51c00-8d57-11eb-8f23-a2a5f7f26256.png)
+
+
+#### ![블로그 바로가기](https://txegg.tistory.com)
+
 
 ![github](https://img.shields.io/static/v1?label=language&message=python&color=blue)
 ![github](https://img.shields.io/static/v1?label=language&message=javascript&color=orange)
