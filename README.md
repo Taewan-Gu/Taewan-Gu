@@ -1,10 +1,7 @@
 ## About Me
 
 
-![image](https://user-images.githubusercontent.com/68409255/112406220-19d51c00-8d57-11eb-8f23-a2a5f7f26256.png)
-
-
-#### [블로그 바로가기](https://txegg.tistory.com)
+![image](https://user-images.githubusercontent.com/68409255/112406974-8e5c8a80-8d58-11eb-9adc-bee345293d2c.png)
 
 
 ![github](https://img.shields.io/static/v1?label=language&message=python&color=blue)
