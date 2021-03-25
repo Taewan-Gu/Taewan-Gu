@@ -4,8 +4,8 @@ Taewan Gu / 컴공 / SSAFY 4기
 
 Python3 / C / JAVA / JS
 
-![github](https://img.shields.io/static/v1?message=python&color=blue)
-![github](https://img.shields.io/static/v1?message=fastapi&color=blue)
+![github](https://img.shields.io/static/v1?label=<>&message=python&color=blue)
+![github](https://img.shields.io/static/v1?label=.&message=fastapi&color=blue)
 
 Blog: https://txegg.tistory.com
 
