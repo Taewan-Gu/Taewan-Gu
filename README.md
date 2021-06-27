@@ -12,21 +12,21 @@
 ![github](https://img.shields.io/static/v1?label=framework&message=fastapi&color=blue)
 ![github](https://img.shields.io/static/v1?label=framework&message=django&color=blue)
 ![github](https://img.shields.io/static/v1?label=framework&message=vuejs&color=orange)
-![github](https://img.shields.io/static/v1?label=framework&message=react&color=green)
+![github](https://img.shields.io/static/v1?label=framework&message=reactjs&color=green)
 ![github](https://img.shields.io/static/v1?label=framework&message=reactnative&color=green)
 
 
 ![github](https://img.shields.io/static/v1?label=tools&message=git&color=blueviolet)
 ![github](https://img.shields.io/static/v1?label=tools&message=jira&color=blueviolet)
 ![github](https://img.shields.io/static/v1?label=tools&message=jenkins&color=blueviolet)
-![github](https://img.shields.io/static/v1?label=tools&message=docker&color=blueviolet)
 ![github](https://img.shields.io/static/v1?label=tools&message=nginx&color=blueviolet)
+![github](https://img.shields.io/static/v1?label=tools&message=docker&color=blueviolet)
+![github](https://img.shields.io/static/v1?label=tools&message=kubernetes&color=blueviolet)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fksk94&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![github](https://img.shields.io/static/v1?label=tools&message=awsec2&color=blueviolet)
+![github](https://img.shields.io/static/v1?label=tools&message=gcpgke&color=blueviolet)
+![github](https://img.shields.io/static/v1?label=tools&message=ffmpeg&color=blueviolet)
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fksk94)](https://solved.ac/fksk94)
-
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=fksk94)](https://solved.ac/fksk94)
