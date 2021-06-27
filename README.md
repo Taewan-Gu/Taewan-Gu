@@ -24,3 +24,7 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fksk94&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=fksk94)](https://solved.ac/fksk94)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fksk94)](https://solved.ac/fksk94)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=fksk94)](https://solved.ac/fksk94)
