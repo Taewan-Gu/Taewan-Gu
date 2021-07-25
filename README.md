@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/68409255/112407406-61f53e00-8d59-11eb-93d9-ed24a5f3d547.png)
 
 
-
+<br> <br>
 ## 📚 My Stacks
 
 
@@ -32,6 +32,7 @@
 ![github](https://img.shields.io/static/v1?label=tools&message=ffmpeg&color=blueviolet)
 
 
+<br> <br>
 ## 🔗 Algorithm
 
 
