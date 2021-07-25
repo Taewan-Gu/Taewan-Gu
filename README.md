@@ -22,14 +22,9 @@
 ![github](https://img.shields.io/static/v1?label=tools&message=jenkins&color=blueviolet)
 ![github](https://img.shields.io/static/v1?label=tools&message=nginx&color=blueviolet)
 ![github](https://img.shields.io/static/v1?label=tools&message=docker&color=blueviolet)
-![github](https://img.shields.io/static/v1?label=tools&message=kubernetes&color=blueviolet)
-
-
-![github](https://img.shields.io/static/v1?label=tools&message=git&color=blueviolet)
+![github](https://img.shields.io/static/v1?label=tools&message=k8s&color=blueviolet)
 ![github](https://img.shields.io/static/v1?label=tools&message=jira&color=blueviolet)
 ![github](https://img.shields.io/static/v1?label=tools&message=awsec2&color=blueviolet)
-![github](https://img.shields.io/static/v1?label=tools&message=gcpgke&color=blueviolet)
-![github](https://img.shields.io/static/v1?label=tools&message=ffmpeg&color=blueviolet)
 
 
 <br> <br>
