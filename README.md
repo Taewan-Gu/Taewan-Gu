@@ -7,7 +7,7 @@
 <br> <br>
 ## 📚 About Me
 
-[www.ggustory.site](https://www.ggustory.site)
+#### gguStory: [www.ggustory.site](https://www.ggustory.site)
 
 
 <br> <br>
