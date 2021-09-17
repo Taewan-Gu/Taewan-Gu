@@ -1,7 +1,4 @@
 
-#### Backend 개발자 구태완입니다.
-
- <br>
 ## 📚 About Me
 
 #### gguStory: [www.ggustory.site](https://www.ggustory.site)
