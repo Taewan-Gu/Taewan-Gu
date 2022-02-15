@@ -7,6 +7,8 @@
 
 #### Agaein: [SundayTen Organization](https://github.com/sundayTen)
 
+#### Blog: [Tistory](https://txegg.tistory.com) || [Velog](https://velog.io/@fksk94)
+
 
 <br> <br>
 ## 🔗 Algorithm
