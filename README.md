@@ -3,6 +3,10 @@
 
 #### gguStory: [www.ggustory.site](https://www.ggustory.site)
 
+#### InIT: [github.com/InSSAFY](https://github.com/InSSAFY)
+
+#### Agaein: [https://github.com/sundayTen](https://github.com/sundayTen)
+
 
 <br> <br>
 ## 🔗 Algorithm
