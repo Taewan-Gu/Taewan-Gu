@@ -3,9 +3,9 @@
 
 #### gguStory: [www.ggustory.site](https://www.ggustory.site)
 
-#### InIT: [github.com/InSSAFY](https://github.com/InSSAFY)
+#### InIT: [InSSAFY Organization](https://github.com/InSSAFY)
 
-#### Agaein: [https://github.com/sundayTen](https://github.com/sundayTen)
+#### Agaein: [SundayTen Organization](https://github.com/sundayTen)
 
 
 <br> <br>
