@@ -13,11 +13,10 @@
 <br> <br>
 ## 🔗 Algorithm
 
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=Taewan-Gu)
+
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fksk94)](https://solved.ac/fksk94)
 
 
 [![CodeForces Profile](https://cf.leed.at?id=muvissum)](https://codeforces.com/profile/muvissum)
-
-
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=Taewan-Gu)
