@@ -20,4 +20,4 @@
 [![CodeForces Profile](https://cf.leed.at?id=muvissum)](https://codeforces.com/profile/muvissum)
 
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=Taewan-Gu&theme=unicorn)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=Taewan-Gu)
