@@ -1,7 +1,9 @@
 
 ## 📚 About Me
 
-#### gguStory: [www.ggustory.site](https://www.ggustory.site)
+#### gguStory: [www.ggustory.site](https://www.ggustory.site) - 삭제 예정
+
+#### Taewan's page: [taewan.page](https://taewan.page)
 
 #### InIT: [InSSAFY Organization](https://github.com/InSSAFY)
 
