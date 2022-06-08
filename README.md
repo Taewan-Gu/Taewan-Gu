@@ -10,10 +10,6 @@
 
 #### Blog: [Tistory](https://txegg.tistory.com) || [Velog](https://velog.io/@fksk94)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taewan-Gu&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taewan-Gu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <br> <br>
 ## 🔗 Algorithm
 
