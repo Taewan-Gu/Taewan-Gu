@@ -10,6 +10,7 @@
 
 #### Blog: [Tistory](https://txegg.tistory.com) || [Velog](https://velog.io/@fksk94)
 
+[![Tag's stats](https://github-readme-stats.vercel.app/api/wakatime?username=Taewan-Gu)](https://github.com/anuraghazra/github-readme-stats)
 
 <br> <br>
 ## 🔗 Algorithm
