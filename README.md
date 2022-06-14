@@ -11,7 +11,7 @@
 <br> <br>
 ## 🔗 Algorithm
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Taewan-Gu?theme=nord)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Taewan-Gu?theme=nord)
 
 
 [![CodeForces Profile](https://cf.leed.at?id=muvissum)](https://codeforces.com/profile/muvissum)
