@@ -1,7 +1,5 @@
 ## 📚 About Me
 
-#### Taewan's page: [taewan.page](https://taewan.page)
-
 #### InIT: [InSSAFY Organization](https://github.com/InSSAFY)
 
 #### Agaein: [SundayTen Organization](https://github.com/sundayTen)
