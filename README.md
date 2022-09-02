@@ -17,6 +17,9 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fksk94)](https://solved.ac/fksk94)
 
+
+HSAT Lv.3
+
 <br> <br>
 ## More Info 
 
