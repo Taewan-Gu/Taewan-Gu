@@ -1,10 +1,10 @@
 ## 📚 About Me
 
-#### InIT: [InSSAFY Organization](https://github.com/InSSAFY)
+#### InIT: [InSSAFY Organization - InIT](https://github.com/InSSAFY/.ReadMe)
 
-#### Agaein: [SundayTen Organization](https://github.com/sundayTen)
+#### Agaein: [SundayTen Organization - Agaein](https://github.com/sundayTen/agaein)
 
-#### Blog: [Tistory](https://txegg.tistory.com) || [Velog](https://velog.io/@fksk94)
+#### Blog: ~2021 [Tistory](https://txegg.tistory.com) || 2022 ~ [Velog](https://velog.io/@fksk94)
 
 <br> <br>
 ## 🔗 Algorithm
