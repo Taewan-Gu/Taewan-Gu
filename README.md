@@ -1,8 +1,8 @@
 ## 📚 About Me
 
-#### InIT: [InSSAFY Organization - InIT](https://github.com/InSSAFY/.ReadMe)
+#### InIT ~ 2022 09: [InSSAFY Organization - InIT](https://github.com/InSSAFY/.ReadMe)
 
-#### Agaein: [SundayTen Organization - Agaein](https://github.com/sundayTen/agaein)
+#### Agaein ~ 운영중 : [SundayTen Organization - Agaein](https://github.com/sundayTen/agaein)
 
 #### Blog: ~2021 [Tistory](https://txegg.tistory.com) || 2022 ~ [Velog](https://velog.io/@fksk94)
 
