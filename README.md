@@ -12,7 +12,7 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=fff)
 [![aws-certified-developer-associate (1)](https://user-images.githubusercontent.com/68409255/203073558-94598522-a867-4b3e-9395-33b150444f04.png)](https://www.credly.com/badges/dedb275d-2387-43e9-a3e4-01451feac0e0/public_url)
 
-Hi, I'm Tag(Taewan Gu). I've been in programming since 2020. For 2 years, I got experience several skills and enhanced my problem-solving mind from side-project and job.
+Hi, I'm TaG(Taewan Gu). I've been in programming since 2020. For 2 years, I got experience several skills and enhanced my problem-solving mind from side-project and job.
 
 Currently, I'm in new side-project POKR. Also, I love writing about programming and my life. If you wanna get more info about me, plz click the AboutMe badge above.
 
