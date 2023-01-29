@@ -5,13 +5,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=tagrn&column=4&margin-w=15&margin-h=15)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fksk94)](https://solved.ac/fksk94)
+[![aws-certified-developer-associate (1)](https://user-images.githubusercontent.com/68409255/203073558-94598522-a867-4b3e-9395-33b150444f04.png)](https://www.credly.com/badges/dedb275d-2387-43e9-a3e4-01451feac0e0/public_url)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=fff)
+![Spring](https://img.shields.io/badge/-Spring-69AE3D?style=for-the-badge&logo=spring&logoColor=fff)
 
 [![CodeForces Profile](https://cf.leed.at?id=guading)](https://codeforces.com/profile/guading)
 [![CodeForces Profile](https://cf.leed.at?id=muvissum)](https://codeforces.com/profile/muvissum)
-
-![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=fff)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=fff)
-[![aws-certified-developer-associate (1)](https://user-images.githubusercontent.com/68409255/203073558-94598522-a867-4b3e-9395-33b150444f04.png)](https://www.credly.com/badges/dedb275d-2387-43e9-a3e4-01451feac0e0/public_url)
 
 Hi, I'm Tag(Taewan Gu). I've been in programming since 2020. For 2 years, I got experience several skills and enhanced my problem-solving mind from side-project and job.
 
