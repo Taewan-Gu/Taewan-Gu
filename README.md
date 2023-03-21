@@ -15,7 +15,7 @@
 ![Vuejs](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=fff)
 
-Hi, I'm Tag(Taewan Gu). I've been in programming since 2020. For 2 years, I got experience several skills and enhanced my problem-solving mind from side-project and job.
+Hi, I'm Tag(Taewan Gu). I've been in programming since 2020. For 3 years, I got experience several skills and enhanced my problem-solving mind from side-project and job.
 
 Currently, I'm in new side-project POKR. Also, I love writing about programming and my life. If you wanna get more info about me, plz click the AboutMe badge above.
 
