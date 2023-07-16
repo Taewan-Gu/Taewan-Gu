@@ -8,10 +8,8 @@
 ![Vuejs](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=fff)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fksk94)](https://solved.ac/fksk94)
 
 [![CodeForces Profile](https://cf.leed.at?id=guading)](https://codeforces.com/profile/guading)
-
 
 
 
