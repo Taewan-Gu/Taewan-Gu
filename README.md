@@ -3,9 +3,8 @@
 [![AboutMe](https://img.shields.io/badge/-AboutMe-important?style=round-square&logo=instapaper&logoColor=white&link=https://taewan.link)](https://taewan.link)
 [![AWS Certificate](https://img.shields.io/badge/-AWS_Certificate-232f3e?style=round-square&logo=amazonaws&logoColor=ffffff&link=https://www.credly.com/badges/dedb275d-2387-43e9-a3e4-01451feac0e0/public_url)](https://www.credly.com/badges/dedb275d-2387-43e9-a3e4-01451feac0e0/public_url)
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=fff)
-![Spring](https://img.shields.io/badge/-Spring-69AE3D?style=for-the-badge&logo=spring&logoColor=fff)
-![Vuejs](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234D?style=for-the-badge&logo=nestjs&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-2F73BF?style=for-the-badge&logo=typescript&logoColor=fff)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=fff)
 
 
