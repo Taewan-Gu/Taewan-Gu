@@ -25,5 +25,6 @@
 **🚀 현재 관심사**
 
 ![](https://img.shields.io/badge/-NestJS-E0234D?style=round-square&logoColor=white)
-![](https://img.shields.io/badge/-사이드프로젝트-FD8D14?style=round-square&logoColor=white)
+![](https://img.shields.io/badge/-LeetCode-FD8D14?style=round-square&logoColor=white)
 ![](https://img.shields.io/badge/-영화-468B97?style=round-square&logoColor=white)
+![](https://img.shields.io/badge/-운동-11458B?style=round-square&logoColor=white)
