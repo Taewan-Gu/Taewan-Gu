@@ -7,10 +7,10 @@
 
 **🛠️ 기술스택**
 
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
-![FastAPI](https://img.shields.io/badge/-FastAPI-12988A?style=for-the-badge&logo=fastapi&logoColor=fff)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234D?style=for-the-badge&logo=nestjs&logoColor=fff)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=fff)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234D?style=for-the-badge&logo=nestjs&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/-FastAPI-12988A?style=for-the-badge&logo=fastapi&logoColor=fff)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
 
 **⚙️ 알고리즘**
 
