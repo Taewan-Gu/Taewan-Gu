@@ -14,9 +14,8 @@
 
 **⚙️ 알고리즘**
 
-* 코드포스 - [guading](https://codeforces.com/profile/guading), [muvissum](https://codeforces.com/profile/muvissum)
-* 릿코드 - [Taewan-Gu](https://leetcode.com/Taewan-Gu)
-* 백준 - [fksk94](https://solved.ac/profile/fksk94)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode|Taewan-Gu&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FTaewan-Gu&logo=leetcode&logoColor=yellow)](https://leetcode.com/Taewan-Gu/)
+[![Codeforces](https://img.shields.io/badge/-Specialist-04A79E?style=for-the-badge&labelColor=black&label=codeforces|Guading&logo=codeforces&logoColor=04A79E)](https://codeforces.com/profile/guading)
 
 **🪪 자격증**
 
