@@ -1,4 +1,6 @@
-[![Blog](https://img.shields.io/badge/-블로그-brightgreen?style=round-square&logoColor=white&link=https://blog.taewan.link)](https://blog.taewan.link)
+**📝 블로그**
+
+[blog.taewan.link](https://blog.taewan.link)
 
 **🛠️ 주 기술스택**
 
