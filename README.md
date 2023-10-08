@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/-포트폴리오-important?style=round-square&logoColor=white&link=https://twngg.notion.site/Taewan-Gu-34800b401d214840af80ae98215ac632)](https://twngg.notion.site/Taewan-Gu-34800b401d214840af80ae98215ac632)
 [![Blog](https://img.shields.io/badge/-블로그-brightgreen?style=round-square&logoColor=white&link=https://blog.taewan.link)](https://blog.taewan.link)
 
-**🛠️ 기술스택**
+**🛠️ 주 기술스택**
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=fff)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234D?style=for-the-badge&logo=nestjs&logoColor=fff)
