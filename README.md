@@ -1,6 +1,6 @@
 **📝 기록 - [블로그](https://blog.taewan.link)**
 
-**🚀 사이드 프로젝트 - [목터뷰](https://mockterview.com)**
+**🚀 사이드 프로젝트 - [목터뷰](https://mockterview.com) (잠시 폐쇄)**
 
 **🪪 자격증**
 
